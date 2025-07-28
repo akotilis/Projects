@@ -45,6 +45,3 @@ temperature-forecasting-lstm/
 - The LSTM model was able to capture the temporal patterns in the temperature data effectively.
 - Visualizations demonstrate the model's predictions compared to actual temperature values, showcasing its forecasting capabilities.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
