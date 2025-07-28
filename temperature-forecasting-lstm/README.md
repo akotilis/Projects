@@ -24,7 +24,7 @@ temperature-forecasting-lstm/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/temperature-forecasting-lstm.git
+   git clone https://github.com/akotilis/temperature-forecasting-lstm.git
    cd temperature-forecasting-lstm
    ```
 
